@@ -1,6 +1,8 @@
 github.com/coreos/go-systemd/v22 v22.5.0/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
 github.com/cpressland/e3-go-test-api v1.0.1-0.20240608150213-e7fb592daf8a h1:3uHIHJhgsqIO1Sc2BrGbkZY08UiZtR/acxeAkREcmZY=
 github.com/cpressland/e3-go-test-api v1.0.1-0.20240608150213-e7fb592daf8a/go.mod h1:W3t+JD9vjYu8kB6xkpkeUCJef/TJjS6YbPhGQV37fKo=
+github.com/cpressland/e3-go-test-api v1.0.1 h1:0VQ7BGpkQ3laaeBLX8wb7sUwy1M8Xkm9kkNLbtaX5EU=
+github.com/cpressland/e3-go-test-api v1.0.1/go.mod h1:W3t+JD9vjYu8kB6xkpkeUCJef/TJjS6YbPhGQV37fKo=
 github.com/cpuguy83/go-md2man/v2 v2.0.4 h1:wfIWP927BUkWJb2NmU/kNDYIBTh/ziUX91+lVfRxZq4=
 github.com/cpuguy83/go-md2man/v2 v2.0.4/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/goccy/go-json v0.10.2 h1:CrxCmQqYDkv1z7lO7Wbh2HN93uovUHgrECaO5ZrCXAU=
