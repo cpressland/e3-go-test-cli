@@ -3,7 +3,7 @@ module github.com/cpressland/e3-go-test-cli
 go 1.22.4
 
 require (
-	github.com/cpressland/e3-go-test-api v1.0.1-0.20240608150213-e7fb592daf8a
+	github.com/cpressland/e3-go-test-api v1.0.1
 	github.com/goccy/go-json v0.10.3
 	github.com/rs/zerolog v1.33.0
 	github.com/urfave/cli/v2 v2.27.2
